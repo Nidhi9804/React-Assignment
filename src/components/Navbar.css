@@ -1,0 +1,24 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 0px;
+}
+a.navlinks {
+    padding: 0 20px;
+    text-decoration: none;
+}
+.logo{
+    color: blue;
+    font-size: 19px;
+    font-weight: 700;
+    
+
+}
+span{
+    color: orange;
+}
+button.contact.btn.btn-primary  {
+    margin-left: 33px;
+    border-radius: 35px;
+    padding: 7px 30px;
+}

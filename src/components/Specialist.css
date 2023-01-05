@@ -1,0 +1,47 @@
+p.spara.col-md-4.my-2 {
+    text-align: center;
+}
+
+p.spara.col-md-4.my-2 {
+    text-align: center;
+}
+h1.specialisthead.my-2 {
+    text-align: center;
+}
+.special {
+    float: left;
+   
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+  
+  
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .scon {
+    padding: 0 16px;
+  }
+  
+  .scon::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .title {
+    color: grey;
+  }
+  
+  img.cardimage {
+    height: 200px;
+    background-color: #80808047;
+}
+.card{
+    width: 212px;
+}
+p.sim.my-2 {
+    font-weight: 600;
+}

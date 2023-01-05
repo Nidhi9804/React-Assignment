@@ -1,0 +1,33 @@
+.input {
+    position: relative;
+    height: 75px;
+    width: 56%;
+    border-radius: 10px;
+    border: 1px solid #fff4f4;
+    padding: 25px;
+}
+
+.newsbtn {
+    position: absolute;
+    right: 29%;
+    margin-top: 39px;
+    border-radius: 35px;
+    padding: 9px;
+    font-size: 12px;
+    height: 46px;
+    width: 108px;
+}
+.Newsletter.container {
+    text-align: center;
+    background-color: #0d6efde0;
+    border-radius: 18px;
+    color: white;
+ padding-bottom: 27px;
+}
+h2.news {
+    padding-top: 27px;
+   
+}
+p.newspara.my-3 {
+    font-size: 11px;
+}
